@@ -1,5 +1,6 @@
 # FIFA21 Dataset Cleaning Project
 
+![Fifa2021Banner](./images/FIFA2021Banner.webp)
 ## Introduction
 
 This repository documents the data cleaning process for the FIFA21 dataset. The objective was to prepare the dataset for analysis by addressing issues such as missing values, inconsistent formatting, and incorrect data types.
