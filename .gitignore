@@ -6,3 +6,4 @@ node_modules/
 *.tsbuildinfo
 settings.json
 .vscode
+.DS_Store
