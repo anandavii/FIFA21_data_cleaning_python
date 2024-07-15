@@ -1,6 +1,7 @@
 # FIFA21 Dataset Cleaning Project
 
 ![Fifa2021Banner](./images/FIFA2021Banner.webp)
+
 ## Introduction
 
 This repository documents the data cleaning process for the FIFA21 dataset. The objective was to prepare the dataset for analysis by addressing issues such as missing values, inconsistent formatting, and incorrect data types.
@@ -51,6 +52,10 @@ For detailed information about each cleaning step, refer to the Jupyter notebook
 
 The cleaned dataset resulted in 18,979 rows and 72 columns, ready for further analysis and modeling.
 
+## Tableau Visualization
+
+To provide a visual representation of the cleaned FIFA21 dataset, a Tableau dashboard has been created. This visualization offers insights into player statistics, performance, and other key metrics. You can view the Tableau visualization [here](https://public.tableau.com/views/FIFA2021Analysis/FIFA2021Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+![Fifa2021Vizz](/images/Fifa2021Vizz.png)
 ## Conclusion
 
-The FIFA21 dataset cleaning project not only improved technical skills in data cleaning and manipulation but also provided valuable insights into real-world data challenges in sports analytics.
+The FIFA21 dataset cleaning project provided a comprehensive end-to-end experience, from data cleaning to visualization. Utilizing Python and Pandas, the dataset was meticulously cleaned, addressing issues such as missing values, inconsistent formatting, and incorrect data types. The cleaned data was then used to create an interactive Tableau dashboard, offering detailed insights into player statistics and performance metrics. This project not only enhanced technical skills in data cleaning and manipulation but also demonstrated the value of combining data preparation with visualization for effective sports analytics.
